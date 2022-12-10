@@ -13,3 +13,5 @@ jupyter notebook
 Double click on main.ipynb on jupyter notebook page.
 
 Change kernel to qiskit under "Kernel -> Change kernel -> qiskit"
+
+![alt text](https://github.com/CodyNing/QuantumShortestPath/raw/main/demo.png)
